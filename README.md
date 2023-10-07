@@ -5,16 +5,16 @@ This code which works for Instagram is an example depicting how the spawning of 
 Contributing members:
 
 
-Rishabh
+<a href="https://github.com/siliconvolley" target="_blank">Rishabh</a>
 
 
-Pratheeksha
+<a href="https://github.com/PratheekshaS" target="_blank">Pratheeksha</a>
 
 
-Abhijna
+<a href="https://github.com/ABHIJJJNA" target="_blank">Abhijna</a>
 
 
 <a href="https://github.com/printAdityasn" target="_blank">Aditya</a>
 
 
-Soujanya
+<a href="https://github.com/sajurao03" target="_blank">Soujanya</a>
