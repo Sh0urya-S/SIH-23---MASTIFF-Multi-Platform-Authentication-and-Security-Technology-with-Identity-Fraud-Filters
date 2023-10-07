@@ -1,3 +1,4 @@
+#works best on jupyter notebook for compilation
 import instaloader
 import numpy as np
 import os
